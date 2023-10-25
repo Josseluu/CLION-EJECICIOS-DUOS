@@ -9,12 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3538bd3d-da7f-4183-8120-f72306dcf407" name="Changes" comment="ejercicio 5">
-      <change afterPath="$PROJECT_DIR$/aritmetica de los punteros.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asignacion de memoria.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/punteros de punteros.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/punteros variables.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/punteros y arrays.cpp" afterDir="false" />
+    <list default="true" id="3538bd3d-da7f-4183-8120-f72306dcf407" name="Changes" comment="ejercicio 6">
+      <change afterPath="$PROJECT_DIR$/referencias.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,10 +65,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\javsa\CLionProjects\CLION-EJECICIOS-DUOS\ejercicio 6" />
       <recent name="C:\Users\javsa\CLionProjects\CLION-EJECICIOS-DUOS\ejercicio 5" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.punteros de funciones.cpp">
+  <component name="RunManager" selected="C/C++ File.constantes simbolicas.cpp">
     <configuration name="aritmetica de los punteros.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="aritmetica de los punteros.cpp" CONFIG_NAME="aritmetica de los punteros.cpp">
       <option name="sourceFile" value="aritmetica de los punteros.cpp" />
       <method v="2">
@@ -81,6 +78,12 @@
     </configuration>
     <configuration name="asignacion de memoria.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="asignacion de memoria.cpp" CONFIG_NAME="asignacion de memoria.cpp">
       <option name="sourceFile" value="asignacion de memoria.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="constantes simbolicas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="constantes simbolicas.cpp" CONFIG_NAME="constantes simbolicas.cpp">
+      <option name="sourceFile" value="constantes simbolicas.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -127,6 +130,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="referencias.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="referencias.cpp" CONFIG_NAME="referencias.cpp">
+      <option name="sourceFile" value="referencias.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="C/C++ File.funciones en linea.cpp" />
       <item itemvalue="C/C++ File.funciones recursivas.cpp" />
@@ -137,6 +146,8 @@
       <item itemvalue="C/C++ File.aritmetica de los punteros.cpp" />
       <item itemvalue="C/C++ File.punteros de punteros.cpp" />
       <item itemvalue="C/C++ File.punteros de funciones.cpp" />
+      <item itemvalue="C/C++ File.referencias.cpp" />
+      <item itemvalue="C/C++ File.constantes simbolicas.cpp" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -147,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698220239425</updated>
-      <workItem from="1698220241813" duration="3019000" />
+      <workItem from="1698220241813" duration="3357000" />
     </task>
     <task id="LOCAL-00001" summary="ejercicio 5">
       <option name="closed" value="true" />
@@ -165,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698222623770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ejercicio 5">
+      <option name="closed" value="true" />
+      <created>1698224139489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698224139489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejercicio 6">
+      <option name="closed" value="true" />
+      <created>1698224162538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698224162538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="ejercicio 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 5" />
+    <MESSAGE value="ejercicio 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 6" />
   </component>
 </project>
