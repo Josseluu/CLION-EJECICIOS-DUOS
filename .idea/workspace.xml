@@ -9,9 +9,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3538bd3d-da7f-4183-8120-f72306dcf407" name="Changes" comment="ejercicio 6">
-      <change afterPath="$PROJECT_DIR$/referencias.cpp" afterDir="false" />
+    <list default="true" id="3538bd3d-da7f-4183-8120-f72306dcf407" name="Changes" comment="ejercicio 7">
+      <change afterPath="$PROJECT_DIR$/alias tipo typedef.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constantes simbolicas.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/constantes simbolicas.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +66,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\javsa\CLionProjects\CLION-EJECICIOS-DUOS\ejercicio 7" />
       <recent name="C:\Users\javsa\CLionProjects\CLION-EJECICIOS-DUOS\ejercicio 6" />
       <recent name="C:\Users\javsa\CLionProjects\CLION-EJECICIOS-DUOS\ejercicio 5" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.constantes simbolicas.cpp">
+  <component name="RunManager" selected="C/C++ File.constantes y enumeraciones.cpp">
+    <configuration name="alias tipo typedef.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="alias tipo typedef.cpp" CONFIG_NAME="alias tipo typedef.cpp">
+      <option name="sourceFile" value="alias tipo typedef.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="aritmetica de los punteros.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="aritmetica de los punteros.cpp" CONFIG_NAME="aritmetica de los punteros.cpp">
       <option name="sourceFile" value="aritmetica de los punteros.cpp" />
       <method v="2">
@@ -84,6 +92,12 @@
     </configuration>
     <configuration name="constantes simbolicas.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="constantes simbolicas.cpp" CONFIG_NAME="constantes simbolicas.cpp">
       <option name="sourceFile" value="constantes simbolicas.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="constantes y enumeraciones.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLION-EJECICIOS-DUOS" TARGET_NAME="constantes y enumeraciones.cpp" CONFIG_NAME="constantes y enumeraciones.cpp">
+      <option name="sourceFile" value="constantes y enumeraciones.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -138,6 +152,8 @@
     </configuration>
     <list>
       <item itemvalue="C/C++ File.funciones en linea.cpp" />
+      <item itemvalue="C/C++ File.alias tipo typedef.cpp" />
+      <item itemvalue="C/C++ File.constantes y enumeraciones.cpp" />
       <item itemvalue="C/C++ File.funciones recursivas.cpp" />
       <item itemvalue="C/C++ File.funcion main.cpp" />
       <item itemvalue="C/C++ File.punteros variables.cpp" />
@@ -158,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698220239425</updated>
-      <workItem from="1698220241813" duration="3357000" />
+      <workItem from="1698220241813" duration="3664000" />
     </task>
     <task id="LOCAL-00001" summary="ejercicio 5">
       <option name="closed" value="true" />
@@ -192,7 +208,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698224162538</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ejercicio 7">
+      <option name="closed" value="true" />
+      <created>1698224414833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698224414833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ejercicio 7">
+      <option name="closed" value="true" />
+      <created>1698224449316</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698224449316</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +234,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="ejercicio 5" />
     <MESSAGE value="ejercicio 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 6" />
+    <MESSAGE value="ejercicio 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 7" />
   </component>
 </project>
