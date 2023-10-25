@@ -6,7 +6,7 @@ inline int cuadrado(int x) {
 int main() {
     int numero = 5;
 
-    int resultado = cuadrado(numero); // La función cuadrado se expande en línea
+    int resultado = cuadrado(numero);
 
     std::cout << "El cuadrado de " << numero << " es " << resultado << std::endl;
 

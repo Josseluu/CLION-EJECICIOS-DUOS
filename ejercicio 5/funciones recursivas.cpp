@@ -3,9 +3,9 @@
 
 unsigned long long factorial(int n) {
     if (n == 0) {
-        return 1; // Caso base: factorial de 0 es 1
+        return 1;
     } else {
-        return n * factorial(n - 1); // Llamada recursiva
+        return n * factorial(n - 1);
     }
 }
 
